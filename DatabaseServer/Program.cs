@@ -1,6 +1,6 @@
 ﻿using Microsoft.Data.Sqlite;
 using System.Runtime.CompilerServices;
-
+//hello world
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Welcome to the database server");
 bool running = true;
